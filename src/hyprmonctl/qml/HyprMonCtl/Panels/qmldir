@@ -1,0 +1,11 @@
+module HyprMonCtl.Panels
+AdvancedSection 1.0 AdvancedSection.qml
+ArrangementCard 1.0 ArrangementCard.qml
+DiagnosticsBanner 1.0 DiagnosticsBanner.qml
+IdentifierRow 1.0 IdentifierRow.qml
+ModeRows 1.0 ModeRows.qml
+MonitorSettingsPanel 1.0 MonitorSettingsPanel.qml
+MonitorTabs 1.0 MonitorTabs.qml
+PositionRow 1.0 PositionRow.qml
+SavedRulesCard 1.0 SavedRulesCard.qml
+ScaleRows 1.0 ScaleRows.qml

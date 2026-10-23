@@ -1,0 +1,4 @@
+module HyprMonCtl
+MonitorConfigurator 1.0 MonitorConfigurator.qml
+MonitorStore 1.0 MonitorStore.qml
+RpcClient 1.0 RpcClient.qml

@@ -1,0 +1,4 @@
+module HyprMonCtl.Dialogs
+ConfirmChangesDialog 1.0 ConfirmChangesDialog.qml
+LuaPreviewDialog 1.0 LuaPreviewDialog.qml
+SettingsDialog 1.0 SettingsDialog.qml

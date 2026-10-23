@@ -1,0 +1,14 @@
+module HyprMonCtl.Controls
+Card 1.0 Card.qml
+HButton 1.0 HButton.qml
+HComboBox 1.0 HComboBox.qml
+HIconButton 1.0 HIconButton.qml
+HLabel 1.0 HLabel.qml
+HStepper 1.0 HStepper.qml
+HSwitch 1.0 HSwitch.qml
+HTabBar 1.0 HTabBar.qml
+HTextField 1.0 HTextField.qml
+Icon 1.0 Icon.qml
+ModalDialog 1.0 ModalDialog.qml
+SettingsRow 1.0 SettingsRow.qml
+Toast 1.0 Toast.qml

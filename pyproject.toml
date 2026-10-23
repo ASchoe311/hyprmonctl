@@ -1,0 +1,28 @@
+[project]
+name = "hyprmonctl"
+version = "0.1.0"
+description = "Visual monitor configurator for Hyprland's Lua config, with a JSON-RPC API and embeddable QML UI"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+gui = ["PySide6-Essentials>=6.6"]
+
+[project.scripts]
+hyprmonctl = "hyprmonctl.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/hyprmonctl"]
+exclude = ["**/CLAUDE.md"]  # agent docs stay in the repo
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

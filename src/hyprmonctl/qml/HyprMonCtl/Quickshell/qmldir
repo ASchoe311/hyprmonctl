@@ -1,0 +1,3 @@
+module HyprMonCtl.Quickshell
+MonitorConfigWindow 1.0 MonitorConfigWindow.qml
+ProcessTransport 1.0 ProcessTransport.qml

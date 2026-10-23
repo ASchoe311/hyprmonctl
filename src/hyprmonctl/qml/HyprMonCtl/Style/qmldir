@@ -1,0 +1,2 @@
+module HyprMonCtl.Style
+singleton Theme 1.0 Theme.qml

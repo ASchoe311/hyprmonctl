@@ -1,0 +1,5 @@
+module HyprMonCtl.Layout
+LayoutCanvas 1.0 LayoutCanvas.qml
+MonitorTile 1.0 MonitorTile.qml
+Geometry 1.0 Geometry.js
+Snapping 1.0 Snapping.js
